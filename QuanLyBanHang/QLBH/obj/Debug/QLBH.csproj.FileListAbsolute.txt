@@ -104,3 +104,6 @@ E:\.NET BE\BT02\QuanLyBanHang\QLBH\obj\Debug\RdlCompile.cache
 E:\.NET BE\BT02\QuanLyBanHang\QLBH\obj\Debug\RdlCompile.compiled
 E:\.NET BE\BT02\QuanLyBanHang\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
 E:\.NET BE\BT02\QuanLyBanHang\QLBH\obj\Debug\QLBH.csproj.CopyComplete
+E:\GitHub\QLBH_BT02\QuanLyBanHang\QLBH\bin\Debug\QLBH.exe.config
+E:\GitHub\QLBH_BT02\QuanLyBanHang\QLBH\obj\Debug\QLBH.exe
+E:\GitHub\QLBH_BT02\QuanLyBanHang\QLBH\obj\Debug\QLBH.pdb
